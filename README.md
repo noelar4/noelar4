@@ -1,5 +1,9 @@
 ### Hi there 👋
+I am Noel Abraham Reji a Mobile Application Development and Design Graduate having a year profesional experiance in software Testing. 
 
+- 📫 How to reach me
+Phone : +1 (437)-981-(2780)
+Email Id : reji.noelabraham@gmail.com
 <!--
 **noelar4/noelar4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
