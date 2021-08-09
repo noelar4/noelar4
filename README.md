@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Noel Abraham Reji a Mobile Application Development and Design Graduate having a year profesional experiance in software Testing. 
+I am Noel Abraham Reji a Mobile Application Development and Design Graduate having a year profesional experiance in software Testing and 4 months experience as a full stack developer. 
 
 - 📫 How to reach me
   Phone : +1 (437)-981-(2780)
